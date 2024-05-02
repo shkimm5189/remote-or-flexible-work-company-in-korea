@@ -53,7 +53,7 @@
 | 리디(Ridibooks) | O | 주 1회 | [채용 공고](https://www.ridicorp.com/) |
 | [비드라이브](#비드라이브) | 11:00~15:00 집중근무시간 외 자율 | O | https://www.netdrive.net |
 | [하이퍼커넥트](#하이퍼커넥트) | 8:00~11:00 자율출퇴근 | X | [채용 정보](https://hyperconnect.com/career/) |
-| [당근마켓](#당근마켓) | 9시~11시 탄력 출근 | 매주 목요일 원격 근무 | [팀 페이지](http://team.daangn.com) / [채용 공고](https://dngn.kr/join-us-dev) |
+| [당근마켓](#당근마켓) | 9시~11시 탄력 출근 | 주 2회 원격 근무 | [팀 페이지](http://team.daangn.com) / [채용 공고](https://dngn.kr/join-us-dev) |
 | [엔젤스윙](#엔젤스윙) | O | 월2회 | [채용 공고](http://bit.ly/2ujipxc) |
 | [Skelter Labs](#skelter-labs스켈터랩스) | O | O | [회사 소개](https://skelterlabs.com/about-us) / [채용 공고](https://www.rocketpunch.com/companies/skelterlabs/jobs) |
 | [APLY](#APLY) | O | O | [회사 소개](https://aply.biz) |
@@ -481,7 +481,7 @@
     1. 업무에 필요한 장비는 최대한 지원하고 있어요. [(iMac으로 일하게 된 사연)](https://medium.com/daangn/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%9D%98-%EC%97%85%EB%AC%B4%EC%9A%A9-%EC%BB%B4%ED%93%A8%ED%84%B0-%EC%84%A0%ED%83%9D%ED%95%98%EA%B8%B0-ed72c443b043)
     2. 사용을 원하는 경우 전동 **높낮이 조절 스텐딩 데스크**를 사용하고 있어요. [(스탠딩 데스크 사용기)](https://medium.com/daangn/%EC%84%9C%EC%84%9C-%EC%9D%BC%ED%95%98%EA%B8%B0-%EC%9C%84%ED%95%9C-%EC%8A%A4%ED%83%A0%EB%94%A9-%EB%8D%B0%EC%8A%A4%ED%81%AC-7e07717c4229)
     3. 다양한 툴(Slack, Notion, Google Drive 등)을 유료로 사용하고 있고, **좋은 툴이 있다면 제안하고 함께 사용할 수 있도록 언제나 열려 있어요.** [(Notion 도입한 이야기)](https://medium.com/daangn/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EB%8D%94-%EC%A2%8B%EC%9D%80-%EB%AC%B8%EC%84%9C%EB%8F%84%EA%B5%AC%EA%B0%80-%ED%95%84%EC%9A%94%ED%95%B4%EC%9A%94-notion%EC%9D%84-%EB%A7%8C%EB%82%98%EB%8B%A4-ff4f7e0414f)
-    4. 강남역 1번 출구 도보 1분거리에 사무실이 있어요. [(미림타워 14층)](http://kko.to/gpp6U9z00)
+    4. 신논현역 8번 출구 도보 1분 거리에 사무실이 있어요. [(교보타워 10층 ~ 12층)](https://map.kakao.com/?map_type=TYPE_MAP&q=%EB%8B%B9%EA%B7%BC%EB%A7%88%EC%BC%93&urlLevel=3&urlX=506537&urlY=1110497#none)
 
 - **회사 관련 링크**
     1. [팀 페이지](http://team.daangn.com)
